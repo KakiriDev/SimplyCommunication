@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682784316003",
+    "firebase_url": "https://simplycommunication-c7a37.firebaseio.com",
+    "project_id": "simplycommunication-c7a37",
+    "storage_bucket": "simplycommunication-c7a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682784316003:android:5d4421eebde67824",
+        "android_client_info": {
+          "package_name": "com.kakiridev.simplycommunication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682784316003-hmv8j6ue1g6igspukfso8u9g056cnre1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kakiridev.simplycommunication",
+            "certificate_hash": "2e22fc918beb11bb3834feb9126b7a296439f89c"
+          }
+        },
+        {
+          "client_id": "682784316003-kg56r20te84vq1hr98nvf0ebr70r5t6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6P5S6olwEyCyZFcKgxiH9R3L1c5tN8Bg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682784316003-kg56r20te84vq1hr98nvf0ebr70r5t6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
